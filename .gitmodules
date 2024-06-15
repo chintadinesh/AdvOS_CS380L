@@ -7,3 +7,6 @@
 [submodule "adv_os-lab1"]
 	path = adv_os-lab1
 	url = https://github.com/chintadinesh/adv_os-lab1
+[submodule "adv_os-project"]
+	path = adv_os-project
+	url = https://github.com/chintadinesh/adv_os-project
