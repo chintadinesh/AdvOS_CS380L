@@ -1,3 +1,9 @@
 [submodule "adv_os-lab3"]
 	path = adv_os-lab3
 	url = https://github.com/chintadinesh/adv_os-lab3
+[submodule "adv_os-lab2"]
+	path = adv_os-lab2
+	url = https://github.com/chintadinesh/adv_os-lab2
+[submodule "adv_os-lab1"]
+	path = adv_os-lab1
+	url = https://github.com/chintadinesh/adv_os-lab1
